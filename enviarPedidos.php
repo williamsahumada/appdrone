@@ -2,9 +2,9 @@
 <head>
 <title>Enviar pedidos</title>
 <link rel="stylesheet" type="text/css" href="css/style.css" />
-<script type="text/javascript" src="js/jQuery-3.2.1.js"></script>
-<script type="text/javascript" src="js/validaciones.js"></script>
-<script type="text/javascript" src="js/movimientoDrone.js"></script>
+<script type="text/javascript" src="https://appdrone.herokuapp.com/js/jQuery-3.2.1.js"></script>
+<script type="text/javascript" src="https://appdrone.herokuapp.com/js/validaciones.js"></script>
+<script type="text/javascript" src="https://appdrone.herokuapp.com/js/movimientoDrone.js"></script>
 
 </head>
 <body>
