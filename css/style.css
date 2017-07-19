@@ -1,0 +1,46 @@
+.divPrincipal {
+   width: 298px;
+   height: 299px;
+   background: grey;
+   background-image: url(images/plano.jpg);
+   margin-top: 14px;
+}
+
+.grid {
+  width: 10px;
+  height: 10px;
+  border: solid 1px white;
+  float: left;
+}
+
+.drone {
+  position: absolute;
+  top: 179px;
+  left: 149px;
+  border-radius: 2px;
+  width: 5px;
+  height: 5px;
+  background: red;
+  z-index: 2;
+}
+
+.centro {
+  position: absolute;
+  top: 179px;
+  left: 149px;
+  border-radius: 2px;
+  width: 5px;
+  height: 5px;
+  background: black;
+  z-index: 1;
+}
+
+.entrega {
+  position: absolute;
+  border-radius: 2px;
+  width: 5px;
+  height: 5px;
+  background: blue;
+  z-index: 2;
+}
+
